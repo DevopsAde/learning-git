@@ -6,7 +6,8 @@ GIt is software for tracking changes in any set of files, usually used for coord
 
 GitHub is the most popular hosting platform for software development and version control using Git.
 
-This course is split into Git tutorial and Git and GitHub Tutorial
+This course is comprises of
+
 ► What is Git
 ► Setup Git
 ► Git commits
