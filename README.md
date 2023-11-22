@@ -6,7 +6,9 @@ GIt is software for tracking changes in any set of files, usually used for coord
 
 GitHub is the most popular hosting platform for software development and version control using Git.
 
-This course is comprises of
+This repo was used to learn git from Amigoscode
+
+https://amigoscode.com/courses/git.github
 
 ► What is Git
 ► Setup Git
