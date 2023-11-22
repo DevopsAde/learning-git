@@ -8,9 +8,9 @@ GitHub is the most popular hosting platform for software development and version
 
 ## This repo was used to learn git from Amigoscode
 
-![download](https://github.com/DevopsAde/learning-git/assets/140802517/8c21486c-895b-4eed-9940-cb9abcba7f94)
-
 https://amigoscode.com/courses/git.github
+
+![download](https://github.com/DevopsAde/learning-git/assets/140802517/8c21486c-895b-4eed-9940-cb9abcba7f94)
 
 ► What is Git
 ► Setup Git
